@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cel_fernandes@yahoo.fr
+	name = Celine Fernandes
